@@ -1,0 +1,19 @@
+file:///Users/xingyu1/Desktop/2021/practise/web3/vue3-dapp/package.json {"mtime":1647572843308,"ctime":1647572843305,"size":288,"etag":"38eokqnrn99","orphaned":false,"typeId":""}
+{
+  "name": "vue3-dapp",
+  "private": true,
+  "version": "0.0.1",
+  "description": "vue3 Dapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue3",
+    "dapp",
+    "vite",
+    "pnpm"
+  ],
+  "author": "xingyu",
+  "license": "ISC"
+}

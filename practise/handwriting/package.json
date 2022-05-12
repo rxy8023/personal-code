@@ -1,0 +1,46 @@
+{
+  "name": "handwriting-ts",
+  "version": "1.0.0",
+  "description": "JavaScript handwriting with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test:al": "jest ./Test",
+    "test:ds": "jest ./DataStructure/Test",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Reaper622/DataStructure-Algorithm-TS"
+  },
+  "keywords": [
+    "leetcode",
+    "datastructure",
+    "algorithm",
+    "typescript"
+  ],
+  "author": "MacTavish Lee",
+  "license": "MIT",
+  "dependencies": {
+    "acorn": "^8.6.0",
+    "qs": "^6.10.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.1.2",
+    "@babel/node": "^7.15.8",
+    "@babel/preset-env": "7.1.6",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-preset-env": "1.7.0",
+    "eslint": "5.9.0",
+    "eslint-config-standard": "12.0.0",
+    "eslint-plugin-import": "2.14.0",
+    "eslint-plugin-node": "8.0.0",
+    "eslint-plugin-promise": "4.0.1",
+    "eslint-plugin-standard": "4.0.0",
+    "jest": "^27.3.1",
+    "vuepress": "^1.2.0"
+  },
+  "directories": {
+    "test": "test"
+  }
+}

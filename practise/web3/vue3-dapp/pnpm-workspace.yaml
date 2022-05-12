@@ -1,0 +1,3 @@
+packages:
+  - 'packages/**' # 子包
+  - apps #

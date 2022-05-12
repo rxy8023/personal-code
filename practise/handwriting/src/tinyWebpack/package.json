@@ -1,0 +1,23 @@
+{
+  "name": "tinywebpack",
+  "version": "1.0.0",
+  "description": "pnpm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wepack",
+    "bundler"
+  ],
+  "author": "xingyu",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.16.7",
+    "@babel/parser": "^7.16.7",
+    "@babel/preset-env": "^7.16.7",
+    "@babel/traverse": "^7.16.7",
+    "commander": "^8.3.0",
+    "resolve": "^1.21.0"
+  }
+}
